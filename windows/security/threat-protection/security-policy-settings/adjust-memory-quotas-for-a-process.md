@@ -45,7 +45,7 @@ Constant: SeIncreaseQuotaPrivilege
 
 ### Location
 
-Computer Configuration\\Windows Settings\\Security Settings\\User Rights Assignment\\
+Computer Configuration\\Windows Settings\\Security Settings\\Local Policies\\User Rights Assignment\\
 
 ### Default values
 
